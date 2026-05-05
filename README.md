@@ -1,6 +1,7 @@
 # metin_ozetleme
 ogrenci projeleri metin ozetleme
-ok Dilli Doğal Dil İşleme Tabanlı Otomatik Metin Özetleme Sistemi
+
+Cok Dilli Doğal Dil İşleme Tabanlı Otomatik Metin Özetleme Sistemi
 1. Proje Özeti
 Bu proje, uzun metinlerin içeriğini anlamını bozmadan kısaltmayı amaçlayan hibrit bir metin özetleme sistemidir. Sistem, modern Doğal Dil İşleme (NLP) tekniklerinden hem Tümevarımsal (Abstractive) hem de Çıkarımsal (Extractive) özetleme mimarilerini bir arada sunar.
 
